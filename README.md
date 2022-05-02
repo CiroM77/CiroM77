@@ -1,9 +1,9 @@
 ### Hello World! Soy Ciro👋
 
-Soy Desarrollador Full Stack de la provincia de Córdoba, Argentina. Estudiante de ArgentinaPrograma con muchas ganas de seguir creciendo en el mundo IT.
+Soy Desarrollador Full Stack de la provincia de Córdoba, Argentina. Estudiante de #ArgentinaPrograma con muchas ganas de seguir creciendo en el mundo IT.
 
 
-##Habilidad en:
+## Habilidad en:
 - Bootstrap
 - Typescript 
 - Javascript
