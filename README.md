@@ -1,7 +1,8 @@
 ### Hello World! Soy Ciro👋
 
-Soy Desarrollador Full Stack de la provincia de Córdoba, Argentina. Estudiante de #ArgentinaPrograma con muchas ganas de seguir creciendo en el mundo IT.
-
+Soy Desarrollador Web el cual se interesó mucho en el mundo IT e intenta día a día sumar conocimientos y experiencias.
+Si bien mis caminos empezaron en el Desarrollo Full Stack amplie mis conocimientos en este mundo terminando el curso de Big Data en Codo a Codo y actualmente cursando Inteligencia Artificial en el IALAB. Tambíen cuento con experiencia en las siguientes tecnologías: Firebase, Heroku, MySql, Bootstrap, Git. y en metodologías ágiles en SCRUM con Jira.
+Cualquier consulta estoy a disposición, seguramente me encuentre 👨🏻‍💻.
 
 ## Habilidad en:
 - Bootstrap
