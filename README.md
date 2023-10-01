@@ -1,8 +1,16 @@
 ### Hello World! Soy Ciro👋
 
-Soy Desarrollador Web el cual se interesó mucho en el mundo IT e intenta día a día sumar conocimientos y experiencias.
-Si bien mis caminos empezaron en el Desarrollo Full Stack amplie mis conocimientos en este mundo terminando el curso de Big Data en Codo a Codo y actualmente cursando Inteligencia Artificial en el IALAB. Tambíen cuento con experiencia en las siguientes tecnologías: Firebase, Heroku, MySql, Bootstrap, Git. y en metodologías ágiles en SCRUM con Jira.
-Cualquier consulta estoy a disposición, seguramente me encuentre 👨🏻‍💻.
+Me complace presentarte mi perfil como Desarrollador web y Trader fondeado. Mi pasión por la tecnología y los mercados financieros me ha llevado a una carrera fascinante y en constante evolución.
+Con más de 2 años de experiencia en desarrollo web, me he especializado en Angular y Java, lo que me ha permitido crear soluciones web robustas y eficientes. Mi enfoque en el desarrollo Java ha sido especialmente gratificante, y mi objetivo es seguir creciendo en esta área, contribuyendo con proyectos innovadores y desafiantes.
+Además de mis habilidades en desarrollo web, he ampliado mi horizonte hacia el mundo de Big Data e Inteligencia Artificial. Con certificaciones en Codo a Codo y en el IALAB , donde he adquirido conocimientos valiosos que me permiten abordar proyectos complejos y creativos en estas áreas en constante crecimiento.
+Como Trader fondeado en Helios Trader Group, he desarrollado un profundo entendimiento de los mercados financieros, la gestión de riesgos y la toma de decisiones estratégicas. Esta experiencia me ha proporcionado una perspectiva única sobre la importancia de la precisión y la velocidad en el mundo financiero, cualidades que también aplico en mi trabajo como desarrollador.
+Además de mis habilidades técnicas, estoy comprometido con el aprendizaje continuo. Actualmente, estoy inmerso en un curso de ciberseguridad para fortalecer mis conocimientos en este campo crítico y asegurarme de que mis aplicaciones sean seguras y confiables.
+
+En resumen, estoy emocionado por el futuro y las oportunidades que me esperan en el mundo del desarrollo Java y la tecnología en general. Mi combinación de habilidades técnicas, experiencia en los mercados financieros y mi dedicación al crecimiento profesional me hacen un candidato comprometido y versátil.
+
+Estoy deseando conocer nuevas personas, explorar desafíos emocionantes y contribuir al éxito de proyectos innovadores. Si tienes alguna pregunta o oportunidad interesante que compartir, ¡estaré encantado de hablar contigo!
+
+¡Gracias por tomarte el tiempo para conocerme!
 
 ## Habilidad en:
 - Bootstrap
