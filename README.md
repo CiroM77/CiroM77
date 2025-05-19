@@ -1,25 +1,34 @@
-### Hello World! Soy Ciro👋
+### Hello World! Soy Ciro
 
-Me complace presentarte mi perfil como Desarrollador web y Trader fondeado. Mi pasión por la tecnología y los mercados financieros me ha llevado a una carrera fascinante y en constante evolución.
-Con más de 2 años de experiencia en desarrollo web, me he especializado en Angular y Java, lo que me ha permitido crear soluciones web robustas y eficientes. Mi enfoque en el desarrollo Java ha sido especialmente gratificante, y mi objetivo es seguir creciendo en esta área, contribuyendo con proyectos innovadores y desafiantes.
-Además de mis habilidades en desarrollo web, he ampliado mi horizonte hacia el mundo de Big Data e Inteligencia Artificial. Con certificaciones en Codo a Codo y en el IALAB , donde he adquirido conocimientos valiosos que me permiten abordar proyectos complejos y creativos en estas áreas en constante crecimiento.
-Como Trader fondeado en Helios Trader Group, he desarrollado un profundo entendimiento de los mercados financieros, la gestión de riesgos y la toma de decisiones estratégicas. Esta experiencia me ha proporcionado una perspectiva única sobre la importancia de la precisión y la velocidad en el mundo financiero, cualidades que también aplico en mi trabajo como desarrollador.
-Además de mis habilidades técnicas, estoy comprometido con el aprendizaje continuo. Actualmente, estoy inmerso en un curso de ciberseguridad para fortalecer mis conocimientos en este campo crítico y asegurarme de que mis aplicaciones sean seguras y confiables.
+👋 Sobre mí
+Soy un Desarrollador Fullstack con experiencia en Angular, Java Spring Boot, y PostgreSQL, enfocado en el desarrollo de sistemas de gestión y aplicaciones web escalables. He trabajado tanto en frontend como en backend, participando en todas las etapas del ciclo de desarrollo, desde el diseño de interfaces hasta la integración con APIs y bases de datos.
 
-En resumen, estoy emocionado por el futuro y las oportunidades que me esperan en el mundo del desarrollo Java y la tecnología en general. Mi combinación de habilidades técnicas, experiencia en los mercados financieros y mi dedicación al crecimiento profesional me hacen un candidato comprometido y versátil.
+También tengo experiencia en soporte técnico, administración de redes y servidores, y uso de herramientas como Power BI, Docker, y metodologías ágiles como SCRUM/Kanban.
 
-Estoy deseando conocer nuevas personas, explorar desafíos emocionantes y contribuir al éxito de proyectos innovadores. Si tienes alguna pregunta o oportunidad interesante que compartir, ¡estaré encantado de hablar contigo!
+💼 Experiencia técnica
+Desarrollo de sistemas de gestión con Java y Spring Boot
 
-¡Gracias por tomarte el tiempo para conocerme!
+Maquetado web, consumo de APIs y diseño responsive con Angular + Bootstrap
 
-## Habilidad en:
-- Bootstrap
-- Typescript 
-- Javascript
-- Angular
-- MySql
-- Java
-- Spring Boot
+Administración y consultas complejas en PostgreSQL, SQL Server y MySQL
+
+Automatización de reportes y soluciones con Google Apps Script y Power BI
+
+Manejo de control de versiones con Git y GitLab
+
+🎓 Formación y aprendizaje
+Estudiante de Licenciatura en Computación (UTN)
+
+Técnico en Desarrollo de Software (Santo Domingo)
+
+Certificaciones en Java, Fullstack, Big Data, Ciberseguridad, Inglés B1, y Trading
+
+Experiencia como tutor compartiendo conocimientos en programación
+
+🚀 Intereses
+Me apasiona crear soluciones que simplifiquen procesos, aplicar buenas prácticas de programación y seguir aprendiendo cada día. Actualmente estoy trabajando en proyectos personales, como un sistema académico completo y simuladores deportivos personalizados.
+
+
 
 <!--
 **CiroM77/CiroM77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
